@@ -1,0 +1,8 @@
+.vscode/
+ProjectSettings/
+Assembly-CSharp/
+BunnyGame/
+Logs/
+obj/
+packages/
+Library/
